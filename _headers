@@ -1,0 +1,9 @@
+/*.wasm
+  Content-Type: application/wasm
+  Content-Disposition: attachment
+
+/*.data
+  Content-Type: application/octet-stream
+
+/*.js
+  Content-Type: application/javascript
